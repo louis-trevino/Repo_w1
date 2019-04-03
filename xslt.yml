@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: xslt
+  cloud:
+    config:
+      uri: http://localhost:9000
+      enabled: true
+      profile: remote
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: local
+server:
+  port: 8080
+  servlet:
+    context-path: /xslt
+    contextPath: /xslt
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    hostname: xslt
+
