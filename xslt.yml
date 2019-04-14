@@ -28,4 +28,6 @@ eureka:
   instance:
     prefer-ip-address: false
     hostname: localhost
-
+config:
+   name: gh1
+  
