@@ -30,4 +30,5 @@ eureka:
     hostname: localhost
 config:
    name: gh1
-  
+xml:
+  validation: true  
