@@ -27,7 +27,6 @@ server:
   port: 8080
   servlet:
     context-path: /xslt-service
-    contextPath:  /xslt-service
 eureka:
   client:
     fetch-registry: true
