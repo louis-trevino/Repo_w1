@@ -13,7 +13,7 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017
-      database: local
+      database: xslt-service
     redis:
       repositories:
         enabled:
