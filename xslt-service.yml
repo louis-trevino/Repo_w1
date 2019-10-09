@@ -19,7 +19,7 @@ spring:
         enabled:
           false      
   cache:
-    type: redis
+    type: simple
   redis:
     host: localhost
     port: 6379
