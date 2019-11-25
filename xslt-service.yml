@@ -40,3 +40,8 @@ config:
    name: gh1
 xml:
   validation: true  
+xslt:
+  nav-resolver-class: com.brovada.service.xslt.proc.AzureBlobNativeResolver
+  # nav-resolver-class: com.brovada.service.xslt.proc.DataSourceNavResolver
+  #xsl-template-dao-class: com.brovada.service.xslt.repo.XslTemplateDaoMongo
+  xsl-template-dao-class: com.brovada.service.xslt.repo.XslTemplateDaoAzure
