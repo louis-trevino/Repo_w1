@@ -1,0 +1,11 @@
+Nat IP,Device name,Device FQDN,Management IP,Cluster,Business Unit,Version,Build,Signature File
+10.199.29.143,autowaf01,autowaf01.soc.lab-services.ca,10.26.16.143,2Nodes-V13.1,BU1-v13,13.1.1.5,0.0.4,
+10.199.29.144,autowaf02,autowaf02.soc.lab-services.ca,10.26.16.144,2Nodes-V13.1,BU1-v13,13.1.1.5,0.0.4,
+10.199.29.146,autowaf04,autowaf04.soc.lab-services.ca,10.26.16.146,3Nodes-V13.1,BU1-v13,13.1.1.4,0.0.4,
+10.199.29.147,autowaf05,autowaf05.soc.lab-services.ca,10.26.16.147,3Nodes-V13.1,BU1-v13,13.1.1.4,0.0.4,
+10.199.29.149,autowaf07,autowaf07.soc.lab-services.ca,10.26.16.149,3Nodes-V13.1,BU1-v13,13.1.1.4,0.0.4,
+10.199.29.145,autowaf03,autowaf03.soc.lab-services.ca,10.26.16.145,2Nodes-V14.1,BU2-v14,14.1.2.3,0.0.5,ASM-AttackSignatures_20200331_102403.im
+10.199.29.148,autowaf06,autowaf06.soc.lab-services.ca,10.26.16.148,2Nodes-V14.1,BU2-v14,14.1.2.3,0.0.5,ASM-AttackSignatures_20200331_102403.im
+10.199.29.150,autowaf08,autowaf08.soc.lab-services.ca,10.26.16.150,3Nodes-V14.1,BU2-v14,14.1.2.3,0.0.5,ASM-AttackSignatures_20200331_102403.im
+10.199.29.151,autowaf09,autowaf09.soc.lab-services.ca,10.26.16.151,3Nodes-V14.1,BU2-v14,14.1.2.3,0.0.5,ASM-AttackSignatures_20200331_102403.im
+10.199.29.152,autowaf10,autowaf10.soc.lab-services.ca,10.26.16.152,3Nodes-V14.1,BU2-v14,14.1.2.3,0.0.5,ASM-AttackSignatures_20200331_102403.im
